@@ -1,0 +1,24 @@
+{
+  "name": "icw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "superstatic . -p 4200",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikumar7/icw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikumar7/icw/issues"
+  },
+  "homepage": "https://github.com/saikumar7/icw#readme",
+  "devDependencies": {
+    "superstatic": "^9.1.0"
+  }
+}
